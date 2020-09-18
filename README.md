@@ -6,5 +6,5 @@ Hashing is a method of representing a collection of higher dimensional data by a
 # Dataset
 http://yann.lecun.com/exdb/mnist/<br/> <br/>
 # Generated Output
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](output.PNG?raw=true "Title")
 
